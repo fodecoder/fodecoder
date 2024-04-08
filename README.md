@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @fodecoder
+- 👀 I’m interested in many things, here are some of them: coding, One Piece and soccer 
+- 🌱 I’m currently learning front end devolpment with React Native
+- ⚡ Fun fact: did you know that Linus Torvalts used git in orde to version control git itself?! Cool right?!
